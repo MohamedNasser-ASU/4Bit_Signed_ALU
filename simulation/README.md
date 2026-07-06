@@ -1,6 +1,6 @@
 # Simulation
 
-This folder contains the simulation files and testing screenshots for the 4-bit signed ALU project.
+This folder contains the Logisim Evolution simulation files for the 4-bit signed ALU project.
 
 The simulation is used to test the ALU logic before or alongside the physical breadboard build. It includes the main ALU circuit and its subcircuits, such as ADD/SUB, comparator, absolute value logic, and multiplier.
 
