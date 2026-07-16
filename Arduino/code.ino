@@ -5,7 +5,7 @@
   - Arduino Nano (classic ATmega328P)
   - 3 x 74HC165 parallel-in/serial-out shift registers
   - 16x2 HD44780 LCD with I2C backpack
-  - hd44780 library by Bill Perry (install from Arduino Library Manager)
+  - hd44780 library by Bill Perry
 
   Shift-register chain:
     Register 1 QH (pin 9) -> Register 2 SER (pin 10)
